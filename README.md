@@ -25,7 +25,7 @@
 
 ![Image](./Image/1-4.png)
 
-- EDA 결과는 pdf 참고
+- EDA 결과는 코딩소스 혹은 결과서 참고
 
 <br>
 
