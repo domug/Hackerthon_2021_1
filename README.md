@@ -17,6 +17,8 @@
 
 <br>
 
+<재구매 유형 분리 추정>
+
 ![Image](./Image/1-1.png)
 
 ![Image](./Image/1-2.png)
@@ -25,7 +27,17 @@
 
 ![Image](./Image/1-4.png)
 
-- EDA 결과는 코딩소스 혹은 결과서 참고
+<br>
+
+<EDA>
+
+![Image](./Image/1-5.png)
+
+![Image](./Image/1-6.png)
+
+![Image](./Image/1-7.png)
+
+
 
 <br>
 
